@@ -1,3 +1,5 @@
+title: My Website
+description: This is a pracitce website.
 markdown: kramdown 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
